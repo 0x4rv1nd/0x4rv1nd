@@ -1,17 +1,11 @@
-
-<!--
-**0x4rv1nd/0x4rv1nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<h1 align="center">Hi there 👋, I'm Arvind</h1>
-<h3 align="center">An Average guy in the field of cyber security .passionate about webapp and api pentesting</h3>
+<h1 align="center">Hi 👋, I'm Arvind</h1>
+<h3 align="center">An Average guy in the field of cyber security passionate about webapp and api pentesting</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4rv1nd" alt="4rv1nd" /></a> </p>
 
 - 🌱 I’m currently learning **Mern stack and flutter**
 
-- 👯 I’m looking to collaborate on **Bulding webapps and tools**
+- 🤝 I’m looking to collaborate on **Bulding webapps and tools**
 
 - 📫 How to reach me **arvind301024@gmail.com**
 
