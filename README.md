@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arvind</h1>
 <h3 align="center">An Average guy in the field of cyber security passionate about webapp and api pentesting</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4rv1nd" alt="4rv1nd" /></a> 
-</p>
+
 
 - 🌱 I’m currently learning **Mern stack and flutter**
 
