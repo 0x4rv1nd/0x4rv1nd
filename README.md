@@ -6,7 +6,7 @@
 
 Building AI agents, automation workflows, scalable backend systems, and indie products.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Automation+Engineer;Backend+Developer;DevOps+Learner;Indie+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Automation+Engineer;Backend+Developer;DevOps+Learner;Indie+Hacker" alt="Typing SVG" />
 
 
 </div>
@@ -139,11 +139,10 @@ Building AI agents, automation workflows, scalable backend systems, and indie pr
 
 ---
 
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-</p>
+<div align="center">
+  <h3>✨ Motto</h3>
+  <p><b><i>"The idea belongs to the doer."</i></b></p>
+</div>
 
 ---
 
@@ -161,9 +160,8 @@ Building AI agents, automation workflows, scalable backend systems, and indie pr
 </p>
 -->
 
-<!--
+
 ## 📊 Advanced GitHub Metrics (Lowlighter)
 <p align="center">
   <img src="https://raw.githubusercontent.com/0x4rv1nd/0x4rv1nd/output/github-metrics.svg" alt="GitHub Metrics" />
 </p>
--->
