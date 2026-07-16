@@ -140,17 +140,6 @@ Building AI agents, automation workflows, scalable backend systems, and indie pr
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **🤖 AI Automation Workflows** | Built n8n workflows integrated with LLMs for automatic content curation. | `n8n`, `OpenAI API`, `LangChain` | 🚀 Active |
-| **🖼 Image Generation Platform** | Web app generating customized images with AI endpoints. | `Flask`, `Python`, `AI Models` | 📂 Completed |
-| **🌍 WordPress AI Automation** | Seamlessly publishes and optimizes blog posts using AI agents. | `WordPress API`, `n8n`, `Python` | 🚀 Active |
-| **🚀 Micro-SaaS Template** | A starter template for launching fast, modular backend projects with user authentication. | `FastAPI`, `SQLite`, `Tailwind` | 🛠 In Progress |
-
----
-
 ## 💬 Random Dev Quote
 
 <p align="center">
