@@ -153,12 +153,12 @@ Building AI agents, automation workflows, scalable backend systems, and indie pr
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=30363d&link_color=58a6ff&text_color=c9d1d9)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
 -->
 
-<!--
+
 ## 📊 WakaTime Weekly Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight" alt="WakaTime Stats" />
 </p>
--->
+
 
 
 ## 📊 Advanced GitHub Metrics (Lowlighter)
