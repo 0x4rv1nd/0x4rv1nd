@@ -78,14 +78,6 @@ Building AI agents, automation workflows, scalable backend systems, and indie pr
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0x4rv1nd&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">

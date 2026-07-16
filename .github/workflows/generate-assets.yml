@@ -29,6 +29,17 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
+      # Generates GitHub Metrics dashboard (Lowlighter metrics)
+      - name: Generate github-metrics.svg
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: 0x4rv1nd
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          filename: dist/github-metrics.svg
+          
       # Push the content of the dist directory to the output branch
       - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
