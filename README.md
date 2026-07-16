@@ -15,11 +15,13 @@ Building AI agents, automation workflows, scalable backend systems, and indie pr
 
 ## 🚀 About Me
 
-- 💻 Developer passionate about automation and indie hacking.
+- 💻 **Indie Hacker & Developer** passionate about automation, building products, and solving complex problems.
+- 🧪 **Insyra Labs**: Currently building and scaling [insyralabs.vercel.app](https://insyralabs.vercel.app).
+- 🧩 **Problem Solver & Critical Thinker**: Focused on designing and building modern solutions for traditional systems and internal tools.
+- 🌐 **WordPress Development**: 1 year of experience building custom WordPress automations, integrations, and sites.
 - 🤖 **AI & Automation**: Building AI Agents and automated workflows using **n8n**, **LangChain**, and **OpenAI APIs**.
 - 🌐 **Backend Engineering**: Designing and deploying scalable APIs and backend applications with **FastAPI**, **Flask**, and **Node.js**.
-- 🚀 **Indie Hacking**: Launching and scaling side projects, automating workflows, and building utility products.
-- ☁ **DevOps & Cloud**: Learning containerization and deployment pipelines with **Docker**, **GitHub Actions**, **AWS**, and **GCP**.
+- ☁ **DevOps & Cloud**: Streamlining deployments and managing pipelines using **Docker**, **GitHub Actions**, **AWS**, and **GCP**.
 
 ---
 
