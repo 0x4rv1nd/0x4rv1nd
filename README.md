@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Arvind
 
-### AI Automation Engineer • Backend Developer • DevOps Learner • Indie Hacker
+### Indie Hacker •  AI Automation Engineer • Backend Developer • DevOps Engineeer 
 
 Building AI agents, automation workflows, scalable backend systems, and indie products.
 
